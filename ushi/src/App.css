@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+    /*flexbox, tela espanciva*/
+  display: flex;
+  /*centraliza horizontalmente*/
+  justify-content: center;
+  /*centraliza verticalmente*/
+  align-items: center;
+  /*altura viewport, imagem vai para centro na vertical*/
+  height: 100vh;
+  /*largura da viewport*/
+  width: 100vw;
+  /*tirar margens*/
+  margin: 0;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
