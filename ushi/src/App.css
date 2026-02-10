@@ -14,7 +14,13 @@
   margin: 0;
 }
 
-
+/*Para tela de dispositivo
+img não ultrapassar a tela
+img matém ´proporção ao redimensionar*/
+.log_img {
+  max-width: 100%;
+  height: auto;
+}
 
 .App-link {
   color: #61dafb;

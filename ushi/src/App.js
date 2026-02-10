@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
 
-            <img src={logVaca} alt="Imagem vaca vista por cima"/>
+            <img src={logVaca} alt="Imagem vaca vista por cima" className='log_img'/>
   
     </div>
   );
